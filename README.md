@@ -1,3 +1,5 @@
+
+                ✨Good to have you here!!
 - 👋 Hi, I’m @Abhay_rai.
 - 🌱I am currently pursuing my bachelors from TECHNO MAIN SALT LAKE, KOLKATA in Electronics and communication Engineering.
 - 👀 I’m interested in competitive programming and web development as well.
@@ -10,6 +12,3 @@ Abhayrai788/Abhayrai788 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-h
