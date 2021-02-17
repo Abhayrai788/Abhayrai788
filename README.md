@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Abhay_rai.
+- 🌱I am currently pursuing my bachelors from TECHNO MAIN SALT LAKE, KOLKATA in Electronics and communication Engineering.
 - 👀 I’m interested in competitive programming and web development as well.
 - 🌱 I’m currently learning and grabbing the core concepts of data structures and algorithms.
 - 💞️ I’m looking to for intern opportunities currently.
