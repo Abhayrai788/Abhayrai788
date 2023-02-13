@@ -2,7 +2,7 @@
 
                 ✨Good to have you here!!
 - 👋 Hi, I’m @Abhay_rai.
-- 🎓 Recently Graduated in Bachelor of Technology and specialized in Electronics and communication.
+- 🎓 Recently Graduated in Bachelor of Technology and specialized in Electronics and communication from TECHNO MAIN SALTLAKE, KOLKATA.
 - 💼 Currently working in Cognizant, AIA & Database technologies. 
 - 👀 I’m interested in competitive programming and web development as well.
 - 🌱 I’m currently learning and grabbing the core concepts of data structures and algorithms.
