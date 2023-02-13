@@ -2,7 +2,8 @@
 
                 ✨Good to have you here!!
 - 👋 Hi, I’m @Abhay_rai.
-- 🎓 I am currently pursuing my bachelors from TECHNO MAIN SALT LAKE, KOLKATA in Electronics and communication Engineering.
+- 🎓 Recently Graduated in Bachelor of Technology and specialized in Electronics and communication.
+- 💼 Currently working in Cognizant, AIA & Database technologies. 
 - 👀 I’m interested in competitive programming and web development as well.
 - 🌱 I’m currently learning and grabbing the core concepts of data structures and algorithms.
 - 💡 I'm on track for learning more about Web Development, Systems Design, and Algorithms.
